@@ -159,39 +159,40 @@ const Index = () => (
       <Content speed={0.4} offset={0}>
         <Hero>
           <BigTitle>
-            Hello, <br /> I'm John Doe.
+            Hello, <br /> I'm Jay Khatri.
           </BigTitle>
-          <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+          <Subtitle>I'm just a curious student who likes to build, tinker, and imagine. Learn more about me below!</Subtitle>
         </Hero>
       </Content>
       <DividerMiddle bg="linear-gradient(to right, SlateBlue 0%, DeepSkyBlue 100%)" speed={-0.2} offset={1.1} />
       <Content speed={0.4} offset={1}>
         <Inner>
-          <Title>Projects</Title>
+          <Title>Experience</Title>
           <ProjectsWrapper>
             <ProjectCard
-              title="Freiheit"
+              title="Google"
               link="https://www.behance.net/gallery/58937147/Freiheit"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
-              This project is my entry to Adobe's #ChallengeYourPerspective contest.
+              This past summer, I was a Software Engineering Intern at Google, where I worked on a team under Counter Abuse Technology.
+              I wrote a lot of C++, Golang, and Java!
             </ProjectCard>
             <ProjectCard
-              title="Harry Potter"
+              title="Handshake"
               link="https://www.behance.net/gallery/52915793/Harry-Potter"
               bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
             >
-              I entered the DOCMA 2017 award with this Harry Potter inspired image.
+              In the Spring of 2018, I worked at Handshake, a startup looking to democratize access to job opportunities. I contributed to their Rails/React app, and helped roll out several really cool features on the student side of the product!
             </ProjectCard>
             <ProjectCard
-              title="Tomb Raider"
+              title="TAMUhack"
               link="https://www.behance.net/gallery/43907099/Tomb-Raider"
               bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
             >
               Recreation of a Tomb Raider Wallpaper (Fan Art)
             </ProjectCard>
             <ProjectCard
-              title="Eagle"
+              title="Blackstone"
               link="https://www.behance.net/gallery/38068151/Eagle"
               bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
             >
